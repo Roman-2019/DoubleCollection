@@ -1,0 +1,6 @@
+E:\C\Practice15\DoubleCollect\bin\Debug\DoubleCollect.exe.config
+E:\C\Practice15\DoubleCollect\bin\Debug\DoubleCollect.exe
+E:\C\Practice15\DoubleCollect\bin\Debug\DoubleCollect.pdb
+E:\C\Practice15\DoubleCollect\obj\Debug\DoubleCollect.csprojAssemblyReference.cache
+E:\C\Practice15\DoubleCollect\obj\Debug\DoubleCollect.exe
+E:\C\Practice15\DoubleCollect\obj\Debug\DoubleCollect.pdb
